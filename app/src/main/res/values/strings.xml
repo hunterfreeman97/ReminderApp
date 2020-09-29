@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ReminderApp</string>
+    <string name="alarm_on">Alarm on</string>
+    <string name="alarm_off">Alarm off</string>
+    <string name="turn_on_notification_for_rise_in_cases">Turn on notification for rise in cases</string>
+</resources>
